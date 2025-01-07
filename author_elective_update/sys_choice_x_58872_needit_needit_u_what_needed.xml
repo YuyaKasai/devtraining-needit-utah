@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
-            <sys_id>2eb494c6db742010d2f6f9341d961975</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -21,7 +20,7 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Legal 1</label>
+            <label>Facilities 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>0</sequence>
@@ -30,51 +29,48 @@
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e2b494c6db742010d2f6f9341d961975</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
-            <value>legal1</value>
+            <sys_updated_on>2025-01-07 08:13:08</sys_updated_on>
+            <value>facilities1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Legal 2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>1</sequence>
+            <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>aeb494c6db742010d2f6f9341d961977</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
+            <sys_updated_on>2025-01-07 08:13:09</sys_updated_on>
             <value>legal2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>u_what_needed</element>
             <hint/>
-            <inactive>false</inactive>
-            <label>Facilities 1</label>
+            <inactive>true</inactive>
+            <label>Other</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>2</sequence>
+            <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6eb494c6db742010d2f6f9341d961979</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
-            <value>facilities1</value>
+            <sys_updated_on>2025-01-07 07:50:23</sys_updated_on>
+            <value>other</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -84,17 +80,92 @@
             <label>Facilities 2</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
-            <sequence>3</sequence>
+            <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2eb494c6db742010d2f6f9341d96197b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-07 08:13:08</sys_updated_on>
+            <value>facilities2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>IT 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-07 07:50:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-07 08:13:09</sys_updated_on>
+            <value>it1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Financial 1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-07 08:13:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
-            <value>facilities2</value>
+            <sys_updated_on>2025-01-07 08:13:08</sys_updated_on>
+            <value>financial1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>IT 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-07 07:50:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-07 08:13:09</sys_updated_on>
+            <value>it2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Financial 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-07 08:13:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-07 08:13:08</sys_updated_on>
+            <value>financial2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -110,10 +181,9 @@
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>eab494c6db742010d2f6f9341d96197d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
+            <sys_updated_on>2025-01-07 08:13:08</sys_updated_on>
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -130,10 +200,9 @@
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>aab494c6db742010d2f6f9341d96197f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
+            <sys_updated_on>2025-01-07 08:13:09</sys_updated_on>
             <value>hr2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -141,7 +210,7 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Other</label>
+            <label>Legal 1</label>
             <language>en</language>
             <name>x_58872_needit_needit</name>
             <sequence>6</sequence>
@@ -150,11 +219,29 @@
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6ab494c6db742010d2f6f9341d961981</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-07 08:13:09</sys_updated_on>
+            <value>legal1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legan 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-07 08:13:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
-            <value>other</value>
+            <sys_updated_on>2025-01-07 08:13:09</sys_updated_on>
+            <value>legan2</value>
         </sys_choice>
     </sys_choice>
 </record_update>
